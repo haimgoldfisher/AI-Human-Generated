@@ -1,5 +1,7 @@
 # AI-Human Generated Classifier
 
+### Itamar Kraitman & Haim Goldfisher
+
 ## Introduction
 This project is aimed at developing an AI-powered classifier capable of distinguishing between human-generated and AI-generated text.
 
