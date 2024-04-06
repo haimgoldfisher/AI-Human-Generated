@@ -384,4 +384,9 @@ def predict_generated(text_input, threshold = 0.60):
 
   # print the result for the above text
   y_pred_map = np.where(y_pred == 1, "AI", "Human")
-  print(f"\n{y_pred_map[0]} Generated")
+
+  answer = f"\n{y_pred_map[0]} Generated"
+
+  print(answer)
+
+  return answer
