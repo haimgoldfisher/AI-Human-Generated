@@ -31,7 +31,13 @@ This project is aimed at developing an AI-powered classifier capable of distingu
     ```
 
 ## Running the Application
-To run the main application, execute the following command:
+
+To run the main application (GUI), execute the following command:
+```bash
+python gui.py
+```
+
+To run main without GUI, execute the following command:
 ```bash
 python main.py
 ```
