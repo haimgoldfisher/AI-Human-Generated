@@ -53,6 +53,9 @@ python gui.py
 
 7. **Classification Result**: After clicking the "Classify" button, the classification result will be displayed here. It will indicate whether the provided text is classified as AI-generated or human-generated.
 
+![GUI Guide](https://github.com/haimgoldfisher/Ai-Human-Generated/blob/master/plots/GUI.jpg?raw=true)
+
+
 To run main without GUI (Shell Mode), execute the following command:
 ```bash
 python main.py
