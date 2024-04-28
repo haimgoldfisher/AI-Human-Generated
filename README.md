@@ -6,7 +6,7 @@
 This project is aimed at developing an AI-powered classifier capable of distinguishing between human-generated and AI-generated text.
 
 ## Prerequisites
-- Python 3.x installed on your system.
+- Python 3.9+ installed on your system.
 
 ## Setup Instructions
 1. Clone the repository:
