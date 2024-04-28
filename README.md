@@ -30,6 +30,11 @@ This project is aimed at developing an AI-powered classifier capable of distingu
     pip install -r requirements.txt
     ```
 
+4. Download the requried SpaCy model :
+   ```bash
+    python -m spacy download en_core_web_sm
+    ```
+
 ## Running the Application
 
 To run the main application (GUI), execute the following command:
